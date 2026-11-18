@@ -1,6 +1,6 @@
 // GANTI DUA BARIS DI BAWAH INI DENGAN DATA SUPABASE ANDA!
 const SUPABASE_URL = 'https://hgjctbucawsdhuyalbow.supabase.co';
-const SUPABASE_ANON_KEY = 'TEMPEL_ANON_KEY_ANDA_YANG_PANJANG_DISINI';
+const SUPABASE_ANON_KEY = 'sb_publishable__C2nEj3iqdHc5SIBjxiHOQ_hn-uTMbk';
 
 const supabase = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
