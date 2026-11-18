@@ -1,0 +1,9 @@
+body { font-family: 'Plus Jakarta Sans', sans-serif; color: #0F172A; }
+h1, h2, .font-display { font-family: 'Fredoka', sans-serif; }
+.civic-card { background: white; border-radius: 1.5rem; padding: 1rem; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); border: 1px solid #e2e8f0; }
+.clay-subcard { background: #f1f5f9; border-radius: 1rem; padding: 0.75rem; }
+.civic-btn { transition: transform 0.1s; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); }
+.civic-btn:active { transform: scale(0.95); }
+input, select { background: #f8fafc !important; border: 1px solid #cbd5e1 !important; outline: none; }
+input:focus, select:focus { border-color: #38bdf8 !important; box-shadow: 0 0 0 2px #bae6fd !important; }
+.nav-item.active { background: #38bdf8; color: white; }
